@@ -1,0 +1,7 @@
+cocoindex==0.3.26
+qdrant-client
+uuid
+python-dotenv
+ollama
+sentence-transformers
+psycopg2-binary
